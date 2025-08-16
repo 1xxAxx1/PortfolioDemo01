@@ -1,5 +1,3 @@
-# Hi, I'm Asmit Mallick  
-
 **B.Tech in Computer Science**  
 Manipal University Jaipur (2024 – Present)  
 **CGPA:** 8.69 / 10  

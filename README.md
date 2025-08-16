@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Asmit Mallick  
+# Hi, I'm Asmit Mallick  
 
-🎓 **B.Tech in Computer Science**  
+**B.Tech in Computer Science**  
 Manipal University Jaipur (2024 – Present)  
 **CGPA:** 8.69 / 10  
 
 ---
 
-## 🛠 Skills  
+## Skills  
 
 - **Languages:** C++, Python, Java, Basic SQL  
 - **Hardware Platforms:** Arduino, Raspberry Pi  
 
 ---
 
-## 🏆 Achievements  
+## Achievements  
 
 - **Line Following Robot Competition (LFR):**  
   Built and programmed a robot capable of autonomously following complex line tracks.  
@@ -22,7 +22,7 @@ Manipal University Jaipur (2024 – Present)
 
 ---
 
-## 💻 Projects  
+## Projects  
 
 ### 🔹 Line Following Robot  
 - Designed and implemented a robot that follows a pre-defined path using IR sensors.  
@@ -32,8 +32,8 @@ Manipal University Jaipur (2024 – Present)
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 
-- 📧 Email: [asmit1003@gmail.com](mailto:asmit1003@gmail.com)  
-- 🐙 GitHub: [1xxAxx1](https://github.com/1xxAxx1)  
-- 💼 LinkedIn: [Asmit Mallick](https://www.linkedin.com/in/asmit-mallick-031b1937a/)  
+- <img src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png" width="20" /> [asmit1003@gmail.com](mailto:asmit1003@gmail.com)  
+- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png" width="20" /> [GitHub](https://github.com/1xxAxx1)  
+- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png" width="20" /> [LinkedIn](https://www.linkedin.com/in/asmit-mallick-031b1937a/)  

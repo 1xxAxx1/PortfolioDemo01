@@ -1,11 +1,10 @@
 ## About Me  
-I’m passionate about exploring how technology can shape the future of connected and intelligent systems.  
-My curiosity drives me to combine **software and hardware** to build solutions that are not only functional but also adaptive to real-world challenges.  
+ 
+I’m passionate about creating connected and intelligent systems by blending **software and hardware**.  
+My interests include **automation, embedded platforms, and system optimization**, where precision and reliability are key.  
 
-I enjoy working on projects that involve **automation, embedded platforms, and system optimization**, where every detail matters in achieving reliability and precision.  
-For me, technology is more than just coding or circuits—it’s about creating tools that make life smarter and more efficient.  
-
-Looking ahead, I want to keep pushing boundaries, experimenting with emerging technologies, and contributing to innovations that bring lasting impact.  
+For me, technology goes beyond coding—it’s about building smarter, more efficient solutions.  
+I aim to keep exploring emerging technologies and contributing to innovations that make a real impact.  
 
 ---
 
@@ -44,6 +43,6 @@ Looking ahead, I want to keep pushing boundaries, experimenting with emerging te
 
 ## Connect with Me  
 
-- Email: [asmit1003@gmail.com](mailto:asmit1003@gmail.com)  
+- Email: [asmit.work2006@gmail.com](mailto:asmit.work2006@gmail.com)  
 - GitHub: [1xxAxx1](https://github.com/1xxAxx1)  
 - LinkedIn: [Asmit Mallick](https://www.linkedin.com/in/asmit-mallick/) 

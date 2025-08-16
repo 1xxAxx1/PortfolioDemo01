@@ -36,4 +36,4 @@ Manipal University Jaipur (2024 – Present)
 
 - Email: [asmit1003@gmail.com](mailto:asmit1003@gmail.com)  
 - GitHub: [1xxAxx1](https://github.com/1xxAxx1)  
-- LinkedIn: [Asmit Mallick](https://www.linkedin.com/in/asmit-mallick-031b1937a/) 
+- LinkedIn: [Asmit Mallick](www.linkedin.com/in/asmit-mallick) 

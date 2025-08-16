@@ -34,6 +34,6 @@ Manipal University Jaipur (2024 – Present)
 
 ## Connect with Me  
 
-- <img src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png" width="20" /> [asmit1003@gmail.com](mailto:asmit1003@gmail.com)  
-- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png" width="20" /> [GitHub](https://github.com/1xxAxx1)  
-- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png" width="20" /> [LinkedIn](https://www.linkedin.com/in/asmit-mallick-031b1937a/)  
+- Email: [asmit1003@gmail.com](mailto:asmit1003@gmail.com)  
+- GitHub: [1xxAxx1](https://github.com/1xxAxx1)  
+- LinkedIn: [Asmit Mallick](https://www.linkedin.com/in/asmit-mallick-031b1937a/) 

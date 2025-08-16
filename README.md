@@ -1,8 +1,18 @@
+## About Me  
+I’m passionate about exploring how technology can shape the future of connected and intelligent systems.  
+My curiosity drives me to combine **software and hardware** to build solutions that are not only functional but also adaptive to real-world challenges.  
+
+I enjoy working on projects that involve **automation, embedded platforms, and system optimization**, where every detail matters in achieving reliability and precision.  
+For me, technology is more than just coding or circuits—it’s about creating tools that make life smarter and more efficient.  
+
+Looking ahead, I want to keep pushing boundaries, experimenting with emerging technologies, and contributing to innovations that bring lasting impact.  
+
+---
+
 ## Education  
 
-**B.Tech in Computer Science**  
-Manipal University Jaipur (2024 – Present)  
-**CGPA:** 8.69 / 10  
+- **B.Tech in Computer Science:** Manipal University Jaipur (2024 – Present)  
+- **CGPA:** 8.69 / 10  
 
 ---
 
@@ -16,7 +26,7 @@ Manipal University Jaipur (2024 – Present)
 ## Achievements  
 
 - **Line Following Robot Competition (LFR):**  
-  Built and programmed a robot capable of autonomously following complex line tracks.  
+  - Built and programmed a robot capable of autonomously following complex line tracks.  
   - Demonstrated skills in sensor integration, real-time decision-making, and embedded programming.  
   - Successfully participated in competitions requiring precision and optimization.  
 
